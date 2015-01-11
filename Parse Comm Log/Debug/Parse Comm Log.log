@@ -1,0 +1,14 @@
+﻿Build started 1/5/2015 8:25:02 AM.
+     1>Project "C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Parse Comm Log\Parse Comm Log.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:/Program Files/boost/boost_1_57_0" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Parse Comm Log.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ParseCommLog.cpp
+         ParseCommLog.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Debug\Parse Comm Log.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Debug\Parse Comm Log.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Debug\Parse Comm Log.lib" /MACHINE:X86 Debug\ParseCommLog.obj
+         Debug\stdafx.obj
+         Parse Comm Log.vcxproj -> C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Debug\Parse Comm Log.exe
+     1>Done Building Project "C:\Users\BillandJoan\Documents\Visual Studio 2013\Projects\Parse Comm Log\Parse Comm Log\Parse Comm Log.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.48
